@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hello_spock" />
+        <module name="Spock_groovy_Unit_testing" />
       </profile>
     </annotationProcessing>
   </component>
